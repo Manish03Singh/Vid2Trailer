@@ -48,4 +48,5 @@ Main character faces extraction) is uploaded <a href="https://drive.google.com/d
 <p>All the trailer my group made are uploaded <a href="https://drive.google.com/drive/folders/10sPvGHtcrRmV_mzBKah0hC9uqkNexGWq">here</a>.</p>
 
 <br>
+# Connect
 <p>Visit me on <a href='https://www.linkedin.com/in/manish-kumar-singh-12a28a190/' target='_blank'>linkedin</a> and <a href='https://twitter.com/Manish_03_Singh' target='_blank'>twitter</a></p>
