@@ -23,7 +23,7 @@ This project focuses on Automatic Trailer Generation (ATG), aiming to create hig
 <p>The TEXT DETECTION feature of the Google Cloud Video Intelligence API was employed to identify text within a video. This feature analyzes frames, providing information on text duration and position in each frame. Utilizing text position data, the area of each detected text is calculated. Subsequently, all identified texts are sorted based on larger area and longer duration. The next step involves matching these texts against a predefined dictionary, retaining only those with word similarity surpassing a specified threshold. This process ensures accurate and filtered text detection in the video.</p>
 
 <img src="/assets/figure.png" alt="image"/>
-<span>Overview of V2T technical architecture</span><br>
+<span>Overview of V2T technical architecture</span><br /><br />
 
 <p>After obtaining all the accurately detected text, overlapping time intervals were merged. The next step involved extracting video clips based on the time stamps of the text, prioritizing those most likely to contain the title logo and production house name. To facilitate clip extraction, Python libraries pydub and moviepy.editor were utilized. These tools ensured efficient processing and extraction of relevant clips from the video based on the identified time stamps.</p>
 
