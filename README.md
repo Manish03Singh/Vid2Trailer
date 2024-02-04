@@ -43,10 +43,9 @@ This project focuses on Automatic Trailer Generation (ATG), aiming to create hig
 
 <p>In the final step, the title logo, theme music, impressive speeches, impressive shots, and main character faces are meticulously arranged into the shot sequence. The production house name is strategically placed at the beginning of the trailer, while the title logo is inserted at the trailer's conclusion. Impressive speech segments overlay the theme music at regular intervals, adhering to specific rules designed to enhance the overall impact on viewers. This thoughtful arrangement ensures a captivating and impactful viewing experience for the audience.</p>
 
-Codes and output of all the parts (Title Logo extraction, Theme Music extraction and,
-Main character faces extraction) is uploaded on this link.
-All the trailer my group made are uploaded on this link.
-</p>
+<p>Codes and output of all the parts (Title Logo extraction, Theme Music extraction and,
+Main character faces extraction) is uploaded <a href="https://drive.google.com/drive/folders/11QDH-BtQmCR7d7PQbaxvqq3rBWF6Yqvu">here</a></p>
+<p>All the trailer my group made are uploaded <a href="https://drive.google.com/drive/folders/10sPvGHtcrRmV_mzBKah0hC9uqkNexGWq">here</a>.</p>
 
 <br>
 <p>Visit me on <a href='https://www.linkedin.com/in/manish-kumar-singh-12a28a190/' target='_blank'>linkedin</a> and <a href='https://twitter.com/Manish_03_Singh' target='_blank'>twitter</a></p>
